@@ -33,5 +33,7 @@ function addTodo() {
   > github의 정적인 배포 환경에서 리액트의 동적환경이 충돌되는 문제로 배포과정의 불필요한 코드들을 추가하는 부분은 vercel로 배포하면서 해결을 했다
 
   ---
-
+#### 썸네일 
+![studyplan App](./public/syudy-plan-thumbnail.png)
  배포된 주소는 [studyplan App](https://react-studyplan-app.vercel.app/)입니다.
+
