@@ -34,6 +34,6 @@ function addTodo() {
 
   ---
 #### 썸네일 
-![studyplan App](./public/syudy-plan-thumbnail.png)
+![studyplan App](../react-router-page/src/assets/syudy-plan-thumbnail.png)
  배포된 주소는 [studyplan App](https://react-studyplan-app.vercel.app/)입니다.
 
